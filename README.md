@@ -33,11 +33,11 @@
 
 ### 🔥 My Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelaziztantawi&theme=radical&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelAziz07-10 &theme=radical&hide_border=true">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelaziztantawi&show_icons=true&theme=radical&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelaziztantawi&layout=compact&theme=radical&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelAziz07-10 &show_icons=true&theme=radical&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelAziz07-10 &layout=compact&theme=radical&hide_border=true">
 </p>
 
 ---
