@@ -3,7 +3,7 @@
 <h1 align="center">Welcome to AbdelAziz Tantawi's Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&lines=Data+Analyst+%7C+Software+Developer;+Codezilla;Passionate+about+Learning+%26+Building!&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&lines=Data+Analyst+%7C+Software+Developer;Learning+at+Codezilla+Academy;Passionate+about+Learning+%26+Building!&center=true&width=500&height=50">
 </p>
 
 ---
@@ -11,8 +11,8 @@
 ### 👨‍💻 About Me :
 - 🎓 I’m a student at **Shorouk Academy**.  
 - 🚀 Currently learning at **Codezilla Academy**.  
-- 💻 Passionate about Data Analysis, and Software Engineering.  
-<!-- 📚 Writing a book on **Time Management for Teenagers**.-->  
+- 💻 Passionate about Data Analysis, Web Development, and Software Engineering.  
+- 📚 Writing a book on **Time Management for Teenagers**.  
 
 ---
 
@@ -33,11 +33,11 @@
 
 ### 🔥 My Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelAziz07-10 &theme=radical&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelaziztantawi&theme=radical&hide_border=true">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelAziz07-10 &show_icons=true&theme=radical&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelAziz07-10 &layout=compact&theme=radical&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelaziztantawi&show_icons=true&theme=radical&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelaziztantawi&layout=compact&theme=radical&hide_border=true">
 </p>
 
 ---
@@ -47,7 +47,7 @@
   <a href="https://www.linkedin.com/in/abdelaziz-tantawi-35490a306/" target="_blank">
     <img src="https://img.shields.io/badge/-AbdelAziz%20Tantawi-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
   </a>
-  <a href="mailto:abdelaziztantawi@gmail.com">
+  <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
