@@ -1,11 +1,5 @@
 <h1 align="center">Hi there, I'm AbdelAziz! 👋</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Developer-Backend%20%7C%20Frontend-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Student-ALX%20Arabia%20%7C%20Codezilla-orange?style=flat-square">
-  <img src="https://img.shields.io/badge/Writing-Book%20on%20Time%20Management-yellow?style=flat-square">
-</p>
-
 ---
 
 ## 🚀 About Me
