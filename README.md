@@ -1,4 +1,4 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="250" align="right" src="https://github.com/AbdelAziz07-10/AbdelAziz07-10/blob/0d7e1998bf4f5f85140567c6ee147b12e97b7a52/animated_text.gif">
 
 <h1 align="center">Welcome to AbdelAziz Tantawi's Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
