@@ -3,16 +3,16 @@
 <h1 align="center">Welcome to AbdelAziz Tantawi's Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&lines=Data+Analyst+%7C+Software+Developer;Student+at+ALX+Arabia+%7C+Codezilla;Passionate+about+Learning+%26+Building!&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&lines=Data+Analyst+%7C+Software+Developer;+Codezilla;Passionate+about+Learning+%26+Building!&center=true&width=500&height=50">
 </p>
 
 ---
 
 ### 👨‍💻 About Me :
-- 🎓 I’m a student at **ALX Arabia** and **Shorouk Academy**.  
+- 🎓 I’m a student at **Shorouk Academy**.  
 - 🚀 Currently learning at **Codezilla Academy**.  
-- 💻 Passionate about Data Analysis, Web Development, and Software Engineering.  
-- 📚 Writing a book on **Time Management for Teenagers**.  
+- 💻 Passionate about Data Analysis, and Software Engineering.  
+<!-- 📚 Writing a book on **Time Management for Teenagers**.-->  
 
 ---
 
@@ -47,7 +47,7 @@
   <a href="https://www.linkedin.com/in/abdelaziz-tantawi-35490a306/" target="_blank">
     <img src="https://img.shields.io/badge/-AbdelAziz%20Tantawi-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:abdelaziztantawi@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
