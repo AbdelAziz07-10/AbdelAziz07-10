@@ -1,31 +1,59 @@
-
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
-<h3 align="center">
-  Welcome to AbdelAziz Tantawi's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<h1 align="center">Welcome to AbdelAziz Tantawi's Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&lines=Data+Analyst+%7C+Software+Developer;Student+at+ALX+Arabia+%7C+Codezilla;Passionate+about+Learning+%26+Building!&center=true&width=500&height=50">
+</p>
 
+---
 
+### 👨‍💻 About Me :
+- 🎓 I’m a student at **ALX Arabia** and **Shorouk Academy**.  
+- 🚀 Currently learning at **Codezilla Academy**.  
+- 💻 Passionate about Data Analysis, Web Development, and Software Engineering.  
+- 📚 Writing a book on **Time Management for Teenagers**.  
 
+---
 
+### 🛠 Tech Stack:
+<p>
+  <img src="https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=C%2B%2B">&nbsp;
+  <img src="https://img.shields.io/badge/-C%23%20-05122A?style=flat&logo=C%20Sharp">&nbsp;
+  <img src="https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python">&nbsp;
+  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">&nbsp;
+  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6">&nbsp;
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">&nbsp;
+  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">&nbsp;
+  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">&nbsp;
+  <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux">&nbsp;
+</p>
 
-### Connect with Me :
+---
 
-<a href="https://www.linkedin.com/in/abdelaziz-tantawi-35490a306/" target="_blank"><img src="https://img.shields.io/badge/-AbdelAziz%20Tantawi-0077B5?style=for-the-badge&logo=Linkedin&logoColor=Blue"/></a>
+### 🔥 My Stats:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelaziztantawi&theme=radical&hide_border=true">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelaziztantawi&show_icons=true&theme=radical&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelaziztantawi&layout=compact&theme=radical&hide_border=true">
+</p>
 
+---
 
-### 🛠 &nbsp;Tech Stack
-![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=C++)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+### 🤝 Connect with Me:
+<p>
+  <a href="https://www.linkedin.com/in/abdelaziz-tantawi-35490a306/" target="_blank">
+    <img src="https://img.shields.io/badge/-AbdelAziz%20Tantawi-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
+---
 
-
-
+<p align="center">
+  ⭐️ <strong>Feel free to explore my projects and reach out for collaboration!</strong> ⭐️
+</p>
