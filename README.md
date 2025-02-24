@@ -1,4 +1,4 @@
-<img width="250" align="right" src="https://github.com/AbdelAziz07-10/AbdelAziz07-10/blob/0d7e1998bf4f5f85140567c6ee147b12e97b7a52/animated_text.gif">
+<img width="250" align="right" src="">
 
 <h1 align="center">Welcome to AbdelAziz Tantawi's Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
@@ -12,7 +12,7 @@
 - 🎓 I’m a student at **Shorouk Academy**.  
 - 🚀 Currently learning at **Codezilla Academy**.  
 - 💻 Passionate about Data Analysis, Web Development, and Software Engineering.  
-- 📚 Writing a book on **Time Management for Teenagers**.  
+
 
 ---
 
@@ -31,14 +31,7 @@
 
 ---
 
-### 🔥 My Stats:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelaziztantawi&theme=radical&hide_border=true">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelaziztantawi&show_icons=true&theme=radical&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelaziztantawi&layout=compact&theme=radical&hide_border=true">
-</p>
+
 
 ---
 
