@@ -1,4 +1,4 @@
-<img width="250" align="right" src="">
+<img width="250" align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWhjNHo2aTl0emZnaDhxdHFiaTVkamVoZzl4czR5NTFudmdybW5kNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lO3XKps6PUdUsw/giphy.gif">
 
 <h1 align="center">Welcome to AbdelAziz Tantawi's Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
